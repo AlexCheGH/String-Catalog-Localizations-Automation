@@ -7,33 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		502133652AD33D6200DC8123 /* SomeTestLocalizations.csv in Resources */ = {isa = PBXBuildFile; fileRef = 502133642AD33D6200DC8123 /* SomeTestLocalizations.csv */; };
-		502133692AD3ED4900DC8123 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 502133682AD3ED4900DC8123 /* Localizable.xcstrings */; };
-		50BEFE462AD2F91B00C5595E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BEFE452AD2F91B00C5595E /* AppDelegate.swift */; };
-		50BEFE482AD2F91B00C5595E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BEFE472AD2F91B00C5595E /* SceneDelegate.swift */; };
-		50BEFE4A2AD2F91B00C5595E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BEFE492AD2F91B00C5595E /* ViewController.swift */; };
-		50BEFE4D2AD2F91B00C5595E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50BEFE4B2AD2F91B00C5595E /* Main.storyboard */; };
-		50BEFE4F2AD2F91B00C5595E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50BEFE4E2AD2F91B00C5595E /* Assets.xcassets */; };
-		50BEFE522AD2F91B00C5595E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50BEFE502AD2F91B00C5595E /* LaunchScreen.storyboard */; };
-		50BEFE622AD2FD5900C5595E /* localizations.py in Resources */ = {isa = PBXBuildFile; fileRef = 50BEFE602AD2FD5900C5595E /* localizations.py */; };
+		503224F82ADDCC5900BFE619 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503224F72ADDCC5900BFE619 /* AppDelegate.swift */; };
+		503224FA2ADDCC5900BFE619 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503224F92ADDCC5900BFE619 /* SceneDelegate.swift */; };
+		503224FC2ADDCC5900BFE619 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503224FB2ADDCC5900BFE619 /* ViewController.swift */; };
+		503224FF2ADDCC5900BFE619 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 503224FD2ADDCC5900BFE619 /* Main.storyboard */; };
+		503225012ADDCC5A00BFE619 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 503225002ADDCC5A00BFE619 /* Assets.xcassets */; };
+		503225042ADDCC5A00BFE619 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 503225022ADDCC5A00BFE619 /* LaunchScreen.storyboard */; };
+		5032250E2ADDCCAD00BFE619 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 5032250D2ADDCCAD00BFE619 /* Localizable.xcstrings */; };
+		503225122ADDE19D00BFE619 /* localizationScript.py in Resources */ = {isa = PBXBuildFile; fileRef = 503225112ADDE19D00BFE619 /* localizationScript.py */; };
+		503225142ADDE1D000BFE619 /* RawLocalizations.csv in Resources */ = {isa = PBXBuildFile; fileRef = 503225132ADDE1D000BFE619 /* RawLocalizations.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		502133642AD33D6200DC8123 /* SomeTestLocalizations.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SomeTestLocalizations.csv; sourceTree = "<group>"; };
-		502133682AD3ED4900DC8123 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
-		50BEFE422AD2F91B00C5595E /* localizationScriptTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = localizationScriptTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		50BEFE452AD2F91B00C5595E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		50BEFE472AD2F91B00C5595E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		50BEFE492AD2F91B00C5595E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		50BEFE4C2AD2F91B00C5595E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		50BEFE4E2AD2F91B00C5595E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		50BEFE512AD2F91B00C5595E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		50BEFE532AD2F91B00C5595E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		50BEFE602AD2FD5900C5595E /* localizations.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = localizations.py; sourceTree = "<group>"; };
+		503224F42ADDCC5900BFE619 /* LocalizationsDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LocalizationsDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		503224F72ADDCC5900BFE619 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		503224F92ADDCC5900BFE619 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		503224FB2ADDCC5900BFE619 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		503224FE2ADDCC5900BFE619 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		503225002ADDCC5A00BFE619 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		503225032ADDCC5A00BFE619 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		503225052ADDCC5A00BFE619 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5032250D2ADDCCAD00BFE619 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		503225112ADDE19D00BFE619 /* localizationScript.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = localizationScript.py; sourceTree = "<group>"; };
+		503225132ADDE1D000BFE619 /* RawLocalizations.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = RawLocalizations.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		50BEFE3F2AD2F91B00C5595E /* Frameworks */ = {
+		503224F12ADDCC5900BFE619 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -43,51 +43,51 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		5021335D2AD33B8E00DC8123 /* Localizations */ = {
+		503224EB2ADDCC5900BFE619 = {
 			isa = PBXGroup;
 			children = (
-				502133682AD3ED4900DC8123 /* Localizable.xcstrings */,
-			);
-			path = Localizations;
-			sourceTree = "<group>";
-		};
-		50BEFE392AD2F91B00C5595E = {
-			isa = PBXGroup;
-			children = (
-				50BEFE5F2AD2FD3000C5595E /* Scripts */,
-				50BEFE442AD2F91B00C5595E /* localizationScriptTest */,
-				50BEFE432AD2F91B00C5595E /* Products */,
+				503225102ADDE17600BFE619 /* Scripts */,
+				503224F62ADDCC5900BFE619 /* LocalizationsDemo */,
+				503224F52ADDCC5900BFE619 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		50BEFE432AD2F91B00C5595E /* Products */ = {
+		503224F52ADDCC5900BFE619 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				50BEFE422AD2F91B00C5595E /* localizationScriptTest.app */,
+				503224F42ADDCC5900BFE619 /* LocalizationsDemo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		50BEFE442AD2F91B00C5595E /* localizationScriptTest */ = {
+		503224F62ADDCC5900BFE619 /* LocalizationsDemo */ = {
 			isa = PBXGroup;
 			children = (
-				5021335D2AD33B8E00DC8123 /* Localizations */,
-				50BEFE452AD2F91B00C5595E /* AppDelegate.swift */,
-				50BEFE472AD2F91B00C5595E /* SceneDelegate.swift */,
-				50BEFE492AD2F91B00C5595E /* ViewController.swift */,
-				50BEFE4B2AD2F91B00C5595E /* Main.storyboard */,
-				50BEFE4E2AD2F91B00C5595E /* Assets.xcassets */,
-				50BEFE502AD2F91B00C5595E /* LaunchScreen.storyboard */,
-				50BEFE532AD2F91B00C5595E /* Info.plist */,
+				503224F72ADDCC5900BFE619 /* AppDelegate.swift */,
+				503224F92ADDCC5900BFE619 /* SceneDelegate.swift */,
+				503224FB2ADDCC5900BFE619 /* ViewController.swift */,
+				503224FD2ADDCC5900BFE619 /* Main.storyboard */,
+				503225002ADDCC5A00BFE619 /* Assets.xcassets */,
+				503225022ADDCC5A00BFE619 /* LaunchScreen.storyboard */,
+				503225052ADDCC5A00BFE619 /* Info.plist */,
+				5032250F2ADDE13900BFE619 /* Localizations */,
 			);
-			path = localizationScriptTest;
+			path = LocalizationsDemo;
 			sourceTree = "<group>";
 		};
-		50BEFE5F2AD2FD3000C5595E /* Scripts */ = {
+		5032250F2ADDE13900BFE619 /* Localizations */ = {
 			isa = PBXGroup;
 			children = (
-				50BEFE602AD2FD5900C5595E /* localizations.py */,
-				502133642AD33D6200DC8123 /* SomeTestLocalizations.csv */,
+				5032250D2ADDCCAD00BFE619 /* Localizable.xcstrings */,
+			);
+			path = Localizations;
+			sourceTree = "<group>";
+		};
+		503225102ADDE17600BFE619 /* Scripts */ = {
+			isa = PBXGroup;
+			children = (
+				503225112ADDE19D00BFE619 /* localizationScript.py */,
+				503225132ADDE1D000BFE619 /* RawLocalizations.csv */,
 			);
 			path = Scripts;
 			sourceTree = "<group>";
@@ -95,75 +95,77 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		50BEFE412AD2F91B00C5595E /* localizationScriptTest */ = {
+		503224F32ADDCC5900BFE619 /* LocalizationsDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 50BEFE562AD2F91B00C5595E /* Build configuration list for PBXNativeTarget "localizationScriptTest" */;
+			buildConfigurationList = 503225082ADDCC5A00BFE619 /* Build configuration list for PBXNativeTarget "LocalizationsDemo" */;
 			buildPhases = (
-				50BEFE3E2AD2F91B00C5595E /* Sources */,
-				50BEFE3F2AD2F91B00C5595E /* Frameworks */,
-				50BEFE402AD2F91B00C5595E /* Resources */,
-				50BEFE5E2AD2F95700C5595E /* Run Script */,
+				503224F02ADDCC5900BFE619 /* Sources */,
+				503224F12ADDCC5900BFE619 /* Frameworks */,
+				503224F22ADDCC5900BFE619 /* Resources */,
+				503225162ADDE1FF00BFE619 /* ShellScript */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = localizationScriptTest;
-			productName = localizationScriptTest;
-			productReference = 50BEFE422AD2F91B00C5595E /* localizationScriptTest.app */;
+			name = LocalizationsDemo;
+			productName = LocalizationsDemo;
+			productReference = 503224F42ADDCC5900BFE619 /* LocalizationsDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		50BEFE3A2AD2F91B00C5595E /* Project object */ = {
+		503224EC2ADDCC5900BFE619 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1500;
 				LastUpgradeCheck = 1500;
 				TargetAttributes = {
-					50BEFE412AD2F91B00C5595E = {
+					503224F32ADDCC5900BFE619 = {
 						CreatedOnToolsVersion = 15.0;
 					};
 				};
 			};
-			buildConfigurationList = 50BEFE3D2AD2F91B00C5595E /* Build configuration list for PBXProject "localizationScriptTest" */;
+			buildConfigurationList = 503224EF2ADDCC5900BFE619 /* Build configuration list for PBXProject "LocalizationsDemo" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
+				pl,
+				de,
 			);
-			mainGroup = 50BEFE392AD2F91B00C5595E;
-			productRefGroup = 50BEFE432AD2F91B00C5595E /* Products */;
+			mainGroup = 503224EB2ADDCC5900BFE619;
+			productRefGroup = 503224F52ADDCC5900BFE619 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				50BEFE412AD2F91B00C5595E /* localizationScriptTest */,
+				503224F32ADDCC5900BFE619 /* LocalizationsDemo */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		50BEFE402AD2F91B00C5595E /* Resources */ = {
+		503224F22ADDCC5900BFE619 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				50BEFE522AD2F91B00C5595E /* LaunchScreen.storyboard in Resources */,
-				50BEFE4F2AD2F91B00C5595E /* Assets.xcassets in Resources */,
-				502133692AD3ED4900DC8123 /* Localizable.xcstrings in Resources */,
-				50BEFE4D2AD2F91B00C5595E /* Main.storyboard in Resources */,
-				50BEFE622AD2FD5900C5595E /* localizations.py in Resources */,
-				502133652AD33D6200DC8123 /* SomeTestLocalizations.csv in Resources */,
+				503225042ADDCC5A00BFE619 /* LaunchScreen.storyboard in Resources */,
+				503225012ADDCC5A00BFE619 /* Assets.xcassets in Resources */,
+				503225142ADDE1D000BFE619 /* RawLocalizations.csv in Resources */,
+				5032250E2ADDCCAD00BFE619 /* Localizable.xcstrings in Resources */,
+				503224FF2ADDCC5900BFE619 /* Main.storyboard in Resources */,
+				503225122ADDE19D00BFE619 /* localizationScript.py in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		50BEFE5E2AD2F95700C5595E /* Run Script */ = {
+		503225162ADDE1FF00BFE619 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -172,43 +174,42 @@
 			);
 			inputPaths = (
 			);
-			name = "Run Script";
 			outputFileListPaths = (
 			);
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "/usr/bin/python3 \"${PROJECT_DIR}/Scripts/localizations.py\"\n";
+			shellScript = "/usr/bin/python3 \"${PROJECT_DIR}/Scripts/localizationScript.py\"\n";
 		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		50BEFE3E2AD2F91B00C5595E /* Sources */ = {
+		503224F02ADDCC5900BFE619 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				50BEFE4A2AD2F91B00C5595E /* ViewController.swift in Sources */,
-				50BEFE462AD2F91B00C5595E /* AppDelegate.swift in Sources */,
-				50BEFE482AD2F91B00C5595E /* SceneDelegate.swift in Sources */,
+				503224FC2ADDCC5900BFE619 /* ViewController.swift in Sources */,
+				503224F82ADDCC5900BFE619 /* AppDelegate.swift in Sources */,
+				503224FA2ADDCC5900BFE619 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		50BEFE4B2AD2F91B00C5595E /* Main.storyboard */ = {
+		503224FD2ADDCC5900BFE619 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				50BEFE4C2AD2F91B00C5595E /* Base */,
+				503224FE2ADDCC5900BFE619 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		50BEFE502AD2F91B00C5595E /* LaunchScreen.storyboard */ = {
+		503225022ADDCC5A00BFE619 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				50BEFE512AD2F91B00C5595E /* Base */,
+				503225032ADDCC5A00BFE619 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -216,7 +217,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		50BEFE542AD2F91B00C5595E /* Debug */ = {
+		503225062ADDCC5A00BFE619 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -279,7 +280,7 @@
 			};
 			name = Debug;
 		};
-		50BEFE552AD2F91B00C5595E /* Release */ = {
+		503225072ADDCC5A00BFE619 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -335,7 +336,7 @@
 			};
 			name = Release;
 		};
-		50BEFE572AD2F91B00C5595E /* Debug */ = {
+		503225092ADDCC5A00BFE619 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -344,7 +345,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 98447KWBSG;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = localizationScriptTest/Info.plist;
+				INFOPLIST_FILE = LocalizationsDemo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -355,7 +356,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.localizationScriptTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.LocalizationsDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -363,7 +364,7 @@
 			};
 			name = Debug;
 		};
-		50BEFE582AD2F91B00C5595E /* Release */ = {
+		5032250A2ADDCC5A00BFE619 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -372,7 +373,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 98447KWBSG;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = localizationScriptTest/Info.plist;
+				INFOPLIST_FILE = LocalizationsDemo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -383,7 +384,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.localizationScriptTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.LocalizationsDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -394,25 +395,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		50BEFE3D2AD2F91B00C5595E /* Build configuration list for PBXProject "localizationScriptTest" */ = {
+		503224EF2ADDCC5900BFE619 /* Build configuration list for PBXProject "LocalizationsDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				50BEFE542AD2F91B00C5595E /* Debug */,
-				50BEFE552AD2F91B00C5595E /* Release */,
+				503225062ADDCC5A00BFE619 /* Debug */,
+				503225072ADDCC5A00BFE619 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		50BEFE562AD2F91B00C5595E /* Build configuration list for PBXNativeTarget "localizationScriptTest" */ = {
+		503225082ADDCC5A00BFE619 /* Build configuration list for PBXNativeTarget "LocalizationsDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				50BEFE572AD2F91B00C5595E /* Debug */,
-				50BEFE582AD2F91B00C5595E /* Release */,
+				503225092ADDCC5A00BFE619 /* Debug */,
+				5032250A2ADDCC5A00BFE619 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 50BEFE3A2AD2F91B00C5595E /* Project object */;
+	rootObject = 503224EC2ADDCC5900BFE619 /* Project object */;
 }

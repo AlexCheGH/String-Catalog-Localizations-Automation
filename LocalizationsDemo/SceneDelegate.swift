@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  localizationScriptTest
+//  LocalizationsDemo
 //
-//  Created by Alex Chekushkin on 08/10/2023.
+//  Created by Alex Chekushkin on 16/10/2023.
 //
 
 import UIKit

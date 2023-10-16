@@ -43,14 +43,13 @@ def parseLocalizationCSV(file_name):
     except Exception as e:
         print(f"Error: {str(e)}")
 
-
 def saveObjectToJSONFile(data, file_name):
     try:
         # Get the absolute path of the current working directory
         current_directory = os.path.abspath(os.getcwd())
 
         # Define the folder name where you want to save the file
-        folder_name = "localizationScriptTest/Localizations"
+        folder_name = "LocalizationsDemo/Localizations"
 
         # Construct the full path to the output file
         file_path = os.path.join(current_directory, folder_name, file_name)
@@ -66,4 +65,4 @@ def saveObjectToJSONFile(data, file_name):
         print(f"Error saving object to file: {str(e)}")
 
 # Apply you localization file name
-parseLocalizationCSV('SomeTestLocalizations.csv')
+parseLocalizationCSV('RawLocalizations.csv')
